@@ -1,6 +1,7 @@
 ### Seminar Presenation On
 **Text Detection and Recognition From Web Videos**
 
-~ Presented By: ~
+### Presented By: 
+## Harshada Deokar
 
 
